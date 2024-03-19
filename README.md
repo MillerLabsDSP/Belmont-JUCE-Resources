@@ -1,2 +1,2 @@
-# Belmont-JUCE-Resources
- Repo for AET5430 projects and resources
+# Belmont-JUCE-Projects
+ Repo for projects built in AET5430
